@@ -3,43 +3,43 @@
     "id": "1",
     "name": "Tempos Mono",
     "images": [
-      "https://raw.githubusercontent.com/samarakeller/website-servicesmetadata/main/images/image_tmp_1.jpg",
-      "https://raw.githubusercontent.com/samarakeller/website-servicesmetadata/main/images/image_tmp_2.jpg",
-      "https://raw.githubusercontent.com/samarakeller/website-servicesmetadata/main/images/image_tmp_3.jpg",
-      "https://raw.githubusercontent.com/samarakeller/website-servicesmetadata/main/images/image_tmp_4.jpg",
-      "https://raw.githubusercontent.com/samarakeller/website-servicesmetadata/main/images/image_tmp_5.jpg" 
+      "https://raw.githubusercontent.com/samarakeller/website-servicesmetadata/main/images/image_anz_1.jpg",
+      "https://raw.githubusercontent.com/samarakeller/website-servicesmetadata/main/images/image_anz_1.jpg",
+      "https://raw.githubusercontent.com/samarakeller/website-servicesmetadata/main/images/image_anz_1.jpg",
+      "https://raw.githubusercontent.com/samarakeller/website-servicesmetadata/main/images/image_anz_1.jpg",
+      "https://raw.githubusercontent.com/samarakeller/website-servicesmetadata/main/images/image_anz_1.jpg",
     ],
   },
   {
     "id": "2",
     "name": "Sylvania",
     "images": [
-      "https://raw.githubusercontent.com/samarakeller/website-typefacemetadata/main/images:/image_syl_1.jpg",
-      "https://raw.githubusercontent.com/samarakeller/website-typefacemetadata/main/images:/image_syl_2.jpg",
-      "https://raw.githubusercontent.com/samarakeller/website-typefacemetadata/main/images:/image_syl_3.jpg",
-      "https://raw.githubusercontent.com/samarakeller/website-typefacemetadata/main/images:/image_syl_4.jpg",
-      "https://raw.githubusercontent.com/samarakeller/website-typefacemetadata/main/images:/image_syl_5.jpg" 
+      "https://raw.githubusercontent.com/samarakeller/website-servicesmetadata/main/images/image_anz_1.jpg",
+      "https://raw.githubusercontent.com/samarakeller/website-servicesmetadata/main/images/image_anz_1.jpg",
+      "https://raw.githubusercontent.com/samarakeller/website-servicesmetadata/main/images/image_anz_1.jpg",
+      "https://raw.githubusercontent.com/samarakeller/website-servicesmetadata/main/images/image_anz_1.jpg",
+      "https://raw.githubusercontent.com/samarakeller/website-servicesmetadata/main/images/image_anz_1.jpg",
     ],   
   },
   {
     "id": "3",
     "name": "Ronaldinho",
     "images": [
-      "https://raw.githubusercontent.com/samarakeller/website-typefacemetadata/main/images:/image_rnd_1.jpg",
-      "https://raw.githubusercontent.com/samarakeller/website-typefacemetadata/main/images:/image_rnd_2.jpg",
-      "https://raw.githubusercontent.com/samarakeller/website-typefacemetadata/main/images:/image_rnd_3.jpg",
-      "https://raw.githubusercontent.com/samarakeller/website-typefacemetadata/main/images:/image_rnd_4.jpg"
+      "https://raw.githubusercontent.com/samarakeller/website-servicesmetadata/main/images/image_anz_1.jpg",
+      "https://raw.githubusercontent.com/samarakeller/website-servicesmetadata/main/images/image_anz_1.jpg",
+      "https://raw.githubusercontent.com/samarakeller/website-servicesmetadata/main/images/image_anz_1.jpg",
+      "https://raw.githubusercontent.com/samarakeller/website-servicesmetadata/main/images/image_anz_1.jpg",
     ],   
   },
   {
     "id": "4",
     "name": "Costal",
     "images": [
-      "https://raw.githubusercontent.com/samarakeller/website-typefacemetadata/main/images:/image_cst_1.jpg",
-      "https://raw.githubusercontent.com/samarakeller/website-typefacemetadata/main/images:/image_cst_2.jpg",
-      "https://raw.githubusercontent.com/samarakeller/website-typefacemetadata/main/images:/image_cst_3.jpg",
-      "https://raw.githubusercontent.com/samarakeller/website-typefacemetadata/main/images:/image_cst_4.jpg",
-      "https://raw.githubusercontent.com/samarakeller/website-typefacemetadata/main/images:/image_cst_5.jpg"
+      "https://raw.githubusercontent.com/samarakeller/website-servicesmetadata/main/images/image_anz_1.jpg",
+      "https://raw.githubusercontent.com/samarakeller/website-servicesmetadata/main/images/image_anz_1.jpg",
+      "https://raw.githubusercontent.com/samarakeller/website-servicesmetadata/main/images/image_anz_1.jpg",
+      "https://raw.githubusercontent.com/samarakeller/website-servicesmetadata/main/images/image_anz_1.jpg",
+      "https://raw.githubusercontent.com/samarakeller/website-servicesmetadata/main/images/image_anz_1.jpg",
     ],   
   },
 ]
