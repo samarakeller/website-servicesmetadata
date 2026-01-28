@@ -4,42 +4,39 @@
     "name": "Tempos Mono",
     "images": [
       "https://raw.githubusercontent.com/samarakeller/website-servicesmetadata/main/images/image_anz_1.jpg",
-      "https://raw.githubusercontent.com/samarakeller/website-servicesmetadata/main/images/image_anz_1.jpg",
-      "https://raw.githubusercontent.com/samarakeller/website-servicesmetadata/main/images/image_anz_1.jpg",
-      "https://raw.githubusercontent.com/samarakeller/website-servicesmetadata/main/images/image_anz_1.jpg",
-      "https://raw.githubusercontent.com/samarakeller/website-servicesmetadata/main/images/image_anz_1.jpg",
+      "https://raw.githubusercontent.com/samarakeller/website-servicesmetadata/main/images/image_anz_2.jpg"
     ],
+    "description": "Monospaced type solution for coding and data tables.",
+    "tags": ["Monospace", "OpenType"]
   },
   {
     "id": "2",
     "name": "Sylvania",
     "images": [
-      "https://raw.githubusercontent.com/samarakeller/website-servicesmetadata/main/images/image_anz_1.jpg",
-      "https://raw.githubusercontent.com/samarakeller/website-servicesmetadata/main/images/image_anz_1.jpg",
-      "https://raw.githubusercontent.com/samarakeller/website-servicesmetadata/main/images/image_anz_1.jpg",
-      "https://raw.githubusercontent.com/samarakeller/website-servicesmetadata/main/images/image_anz_1.jpg",
-      "https://raw.githubusercontent.com/samarakeller/website-servicesmetadata/main/images/image_anz_1.jpg",
-    ],   
+      "https://raw.githubusercontent.com/samarakeller/website-servicesmetadata/main/images/image_anz_3.jpg",
+      "https://raw.githubusercontent.com/samarakeller/website-servicesmetadata/main/images/image_anz_4.jpg"
+    ],
+    "description": "A humanist family for editorial and long-form reading.",
+    "tags": ["Serif", "Editorial"]
   },
   {
     "id": "3",
     "name": "Ronaldinho",
     "images": [
-      "https://raw.githubusercontent.com/samarakeller/website-servicesmetadata/main/images/image_anz_1.jpg",
-      "https://raw.githubusercontent.com/samarakeller/website-servicesmetadata/main/images/image_anz_1.jpg",
-      "https://raw.githubusercontent.com/samarakeller/website-servicesmetadata/main/images/image_anz_1.jpg",
-      "https://raw.githubusercontent.com/samarakeller/website-servicesmetadata/main/images/image_anz_1.jpg",
-    ],   
+      "https://raw.githubusercontent.com/samarakeller/website-servicesmetadata/main/images/image_anz_5.jpg",
+      "https://raw.githubusercontent.com/samarakeller/website-servicesmetadata/main/images/image_anz_6.jpg"
+    ],
+    "description": "Display headline family with playful counters.",
+    "tags": ["Display", "Headlines"]
   },
   {
     "id": "4",
     "name": "Costal",
     "images": [
-      "https://raw.githubusercontent.com/samarakeller/website-servicesmetadata/main/images/image_anz_1.jpg",
-      "https://raw.githubusercontent.com/samarakeller/website-servicesmetadata/main/images/image_anz_1.jpg",
-      "https://raw.githubusercontent.com/samarakeller/website-servicesmetadata/main/images/image_anz_1.jpg",
-      "https://raw.githubusercontent.com/samarakeller/website-servicesmetadata/main/images/image_anz_1.jpg",
-      "https://raw.githubusercontent.com/samarakeller/website-servicesmetadata/main/images/image_anz_1.jpg",
-    ],   
-  },
+      "https://raw.githubusercontent.com/samarakeller/website-servicesmetadata/main/images/image_anz_7.jpg",
+      "https://raw.githubusercontent.com/samarakeller/website-servicesmetadata/main/images/image_anz_8.jpg"
+    ],
+    "description": "Serif family for high-end print and catalogs.",
+    "tags": ["Serif", "Print"]
+  }
 ]
