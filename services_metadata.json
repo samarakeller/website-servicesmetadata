@@ -3,8 +3,10 @@
     "id": "1",
     "name": "Bespoke Font – MAKEUPFOREVER",
     "images": [
-      "https://raw.githubusercontent.com/samarakeller/website-servicesmetadata/main/images/image_anz_1.jpg",
-      "https://raw.githubusercontent.com/samarakeller/website-servicesmetadata/main/images/image_anz_1.jpg"
+      "https://raw.githubusercontent.com/samarakeller/website-servicesmetadata/main/images/services_img_mufe.jpg",
+      "https://raw.githubusercontent.com/samarakeller/website-servicesmetadata/main/images/services_img_mufe2.jpg",
+      "https://raw.githubusercontent.com/samarakeller/website-servicesmetadata/main/images/services_img_mufe3.jpg",
+      "https://raw.githubusercontent.com/samarakeller/website-servicesmetadata/main/images/services_img_mufe4.jpg"
     ],
     "description": "Monospaced type solution for coding and data tables.",
     "tags": ["Monospace", "OpenType"]
