@@ -30,7 +30,8 @@
     "id": "3",
     "name": "Ronaldinho",
     "images": [
-      "https://raw.githubusercontent.com/samarakeller/website-servicesmetadata/main/images/services_img_cobr.jpg"
+      "https://raw.githubusercontent.com/samarakeller/website-servicesmetadata/main/images/services_img_cobr.jpg",
+      "https://raw.githubusercontent.com/samarakeller/website-servicesmetadata/main/images/services_img_cobr2.jpg"
     ],
     "description": "Display headline family with playful counters.",
     "tags": ["Display", "Headlines"]
