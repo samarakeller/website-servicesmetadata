@@ -15,8 +15,13 @@
     "id": "2",
     "name": "Bayersche Staatssoper",
     "images": [
-      "https://raw.githubusercontent.com/samarakeller/website-servicesmetadata/main/images/image_anz_1.jpg",
-      "https://raw.githubusercontent.com/samarakeller/website-servicesmetadata/main/images/image_anz_1.jpg"
+      "https://raw.githubusercontent.com/samarakeller/website-servicesmetadata/main/images/services_img_baop.jpg",
+      "https://raw.githubusercontent.com/samarakeller/website-servicesmetadata/main/images/services_img_baop2.jpg",
+      "https://raw.githubusercontent.com/samarakeller/website-servicesmetadata/main/images/services_img_baop3.jpg",
+      "https://raw.githubusercontent.com/samarakeller/website-servicesmetadata/main/images/services_img_baop4.jpg",
+      "https://raw.githubusercontent.com/samarakeller/website-servicesmetadata/main/images/services_img_baop5.jpg",
+      "https://raw.githubusercontent.com/samarakeller/website-servicesmetadata/main/images/services_img_baop6.jpg",
+      "https://raw.githubusercontent.com/samarakeller/website-servicesmetadata/main/images/services_img_baop7.jpg"
     ],
     "description": "A humanist family for editorial and long-form reading.",
     "tags": ["Serif", "Editorial"]
