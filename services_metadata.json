@@ -43,7 +43,9 @@
     "name": "Costal",
     "images": [
       "https://raw.githubusercontent.com/samarakeller/website-servicesmetadata/main/images/services_img_her.jpg",
-      "https://raw.githubusercontent.com/samarakeller/website-servicesmetadata/main/images/image_anz_1.jpg"
+      "https://raw.githubusercontent.com/samarakeller/website-servicesmetadata/main/images/services_img_her2.jpg",
+      "https://raw.githubusercontent.com/samarakeller/website-servicesmetadata/main/images/services_img_her3.jpg",
+      "https://raw.githubusercontent.com/samarakeller/website-servicesmetadata/main/images/services_img_her4.jpg"
     ],
     "description": "Serif family for high-end print and catalogs.",
     "tags": ["Serif", "Print"]
