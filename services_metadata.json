@@ -13,7 +13,7 @@
   },
   {
     "id": "2",
-    "name": "Bayersche Staatssoper",
+    "name": "Added style for Bayersche Staatssoper, CD/AD by Bureau Borsche",
     "images": [
       "https://raw.githubusercontent.com/samarakeller/website-servicesmetadata/main/images/services_img_baop.jpg",
       "https://raw.githubusercontent.com/samarakeller/website-servicesmetadata/main/images/services_img_baop2.jpg",
@@ -28,7 +28,7 @@
   },
   { 
     "id": "3",
-    "name": "Ronaldinho",
+    "name": "Weight/VF expansion for Lineto",
     "images": [
       "https://raw.githubusercontent.com/samarakeller/website-servicesmetadata/main/images/services_img_cobr.jpg",
       "https://raw.githubusercontent.com/samarakeller/website-servicesmetadata/main/images/services_img_cobr2.jpg",
@@ -40,7 +40,7 @@
   },
   {
     "id": "4",
-    "name": "Costal",
+    "name": "Bespoke font for Hero Software",
     "images": [
       "https://raw.githubusercontent.com/samarakeller/website-servicesmetadata/main/images/services_img_her.jpg",
       "https://raw.githubusercontent.com/samarakeller/website-servicesmetadata/main/images/services_img_her2.jpg",
